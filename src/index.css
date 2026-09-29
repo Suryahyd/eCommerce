@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&display=swap');
+
+:root{font-family:'DM Sans',sans-serif;color:#26342f;background:#f6f7f4;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-optical-sizing:auto;font-weight:400;--ink:#26342f;--coral:#df7355;--teal:#477969;--muted:#79847f;--paper:#fbfcf9;--canvas:#f6f7f4;--line:#e7ebe5;--display:'Fraunces',Georgia,serif;font-size:14px}
+*{box-sizing:border-box}html{min-width:320px;min-height:100%;scroll-behavior:smooth}body{min-width:320px;min-height:100vh;margin:0}button,input,select{font:inherit}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid #477969;outline-offset:3px}::selection{background:#dcebe4;color:#26342f}#root{min-height:100vh}
